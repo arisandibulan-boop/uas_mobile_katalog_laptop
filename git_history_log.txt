@@ -7,3 +7,4 @@ Log update: auth_provider
 Log update: user_model
 Log update: login_page
 Log update: register_page
+Log update: verify_email_page
