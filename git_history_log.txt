@@ -2,3 +2,4 @@ Log update: api_constants
 Log update: app_colors
 Log update: app_strings
 Log update: app_router
+Log update: notification_service
