@@ -26,3 +26,4 @@ Log update: firebase_config
 Log update: local_storage_service
 Log update: splash_screen
 Log update: app_icon_setup
+Log update: readme_initial
