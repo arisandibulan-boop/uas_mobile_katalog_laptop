@@ -7,3 +7,4 @@ Maintenance: optimasi_pemuatan_gambar
 Maintenance: perbaikan_typo_variabel
 Maintenance: penambahan_komentar_kode
 Maintenance: optimasi_query_produk
+Maintenance: perapihan_folder_core
