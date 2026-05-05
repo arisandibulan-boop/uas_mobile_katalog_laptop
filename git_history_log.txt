@@ -27,3 +27,4 @@ Log update: local_storage_service
 Log update: splash_screen
 Log update: app_icon_setup
 Log update: readme_initial
+Log update: final_cleanup
