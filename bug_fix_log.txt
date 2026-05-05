@@ -10,3 +10,4 @@ Fix & Refactor: refactor_provider_state_management
 Fix & Refactor: fixing_notifikasi_suara
 Fix & Refactor: perbaikan_format_mata_uang_rupiah
 Fix & Refactor: optimasi_loading_state_button
+Fix & Refactor: perbaikan_sistem_logout_firebase
