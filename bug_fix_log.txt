@@ -16,3 +16,4 @@ Fix & Refactor: fixing_border_radius_ui
 Fix & Refactor: optimasi_cache_gambar
 Fix & Refactor: perbaikan_error_koneksi_database
 Fix & Refactor: refactor_widget_reusable
+Fix & Refactor: fixing_shadow_elemen_ui
