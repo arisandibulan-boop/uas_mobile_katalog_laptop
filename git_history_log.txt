@@ -1,2 +1,3 @@
 Log update: api_constants
 Log update: app_colors
+Log update: app_strings
