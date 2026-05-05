@@ -12,3 +12,4 @@ Fix & Refactor: perbaikan_format_mata_uang_rupiah
 Fix & Refactor: optimasi_loading_state_button
 Fix & Refactor: perbaikan_sistem_logout_firebase
 Fix & Refactor: refactor_routing_aplikasi
+Fix & Refactor: fixing_border_radius_ui
