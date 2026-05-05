@@ -13,3 +13,4 @@ Log update: product_provider
 Log update: home_page
 Log update: product_card_widget
 Log update: cart_model
+Log update: cart_provider
