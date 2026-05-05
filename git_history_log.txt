@@ -24,3 +24,4 @@ Log update: edit_product_dialog
 Log update: delete_confirm_widget
 Log update: firebase_config
 Log update: local_storage_service
+Log update: splash_screen
