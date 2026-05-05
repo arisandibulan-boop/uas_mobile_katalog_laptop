@@ -16,3 +16,4 @@ Maintenance: perbaikan_jarak_widget
 Maintenance: update_konfigurasi_json
 Maintenance: optimasi_validasi_input
 Maintenance: perapihan_style_appbar
+Maintenance: refactor_product_card
