@@ -10,3 +10,4 @@ Log update: register_page
 Log update: verify_email_page
 Log update: product_model
 Log update: product_provider
+Log update: home_page
