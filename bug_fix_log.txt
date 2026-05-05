@@ -15,3 +15,4 @@ Fix & Refactor: refactor_routing_aplikasi
 Fix & Refactor: fixing_border_radius_ui
 Fix & Refactor: optimasi_cache_gambar
 Fix & Refactor: perbaikan_error_koneksi_database
+Fix & Refactor: refactor_widget_reusable
