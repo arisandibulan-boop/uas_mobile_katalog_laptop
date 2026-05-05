@@ -15,3 +15,4 @@ Log update: product_card_widget
 Log update: cart_model
 Log update: cart_provider
 Log update: cart_page
+Log update: checkout_page
