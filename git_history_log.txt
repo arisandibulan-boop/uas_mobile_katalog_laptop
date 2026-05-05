@@ -16,3 +16,4 @@ Log update: cart_model
 Log update: cart_provider
 Log update: cart_page
 Log update: checkout_page
+Log update: payment_service
