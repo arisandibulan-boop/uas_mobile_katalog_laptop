@@ -20,3 +20,4 @@ Log update: payment_service
 Log update: admin_provider
 Log update: manage_product_page
 Log update: add_product_dialog
+Log update: edit_product_dialog
