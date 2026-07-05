@@ -194,7 +194,7 @@ Teknik Informatika
 
 Software Engineering
 
-Universitas Esa Unggul
+Universitas Global institute
 
 ---
 
